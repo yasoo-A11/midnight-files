@@ -1,0 +1,15 @@
+# working files of a render; everything here can be rebuilt
+parts/
+shots/
+qa/
+node_modules/
+__pycache__/
+concat.txt
+video_only.mp4
+mix_raw.wav
+stem_*.wav
+vo_proc.wav
+soundtrack.wav
+*.tmp.mp4
+# finished videos are published as release files, not kept in the source tree
+films/**/*.mp4
