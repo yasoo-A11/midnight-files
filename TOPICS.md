@@ -6,7 +6,7 @@
 | 2026-11-20 | `films/2026-11-20-black-friday` | Why it is called Black Friday (Philadelphia police, not profits) | 57 s | published 2026-11-20 22:00 Africa/Cairo: https://www.youtube.com/watch?v=rXQmwjeY1S8 , https://www.tiktok.com/@midnightnarratives.1/video/7710345997095832884 |
 | 2026-11-22 | `films/2026-11-22-franksgiving` | Franksgiving: why Thanksgiving is on the fourth Thursday (FDR, 1939) | 55.5 s | published 2026-11-22 22:00 Africa/Cairo: https://www.youtube.com/watch?v=251hftDVAcE , https://www.tiktok.com/@midnightnarratives.1/video/7711088138440936725 |
 | 2026-11-23 | `films/2026-11-23-parade-zoo` | The Thanksgiving parade's first stars were zoo animals; balloons released with a reward | 57.6 s | published 2026-11-23 22:00 Africa/Cairo: https://www.youtube.com/watch?v=2ifpWVxdLfQ , https://www.tiktok.com/@midnightnarratives.1/video/7711459238127717633 |
-| 2026-11-24 | `films/2026-11-24-turkey-pardon` | The presidential turkey pardon isn't from Lincoln or Truman; first official one was 1989 | 56.3 s | scheduled 2026-11-24 22:00 Africa/Cairo |
+| 2026-11-24 | `films/2026-11-24-turkey-pardon` | The presidential turkey pardon isn't from Lincoln or Truman; first official one was 1989 | 56.3 s | published 2026-11-24 22:00 Africa/Cairo: https://www.youtube.com/watch?v=HeG3VvTFA5k , TikTok (published, link not returned yet) |
 
 ## Ideas not used yet
 
